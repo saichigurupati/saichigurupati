@@ -8,8 +8,8 @@ Growth-Minded student with passion for technology and seeking work in the softwa
 
 ## 💻 Technical Skills
 
-- *Programming Languages:* Python, Java, C
-- *Areas of Interest:* Machine Learning, Web Development, Cyber Security
+- *Programming Languages:* Python, C
+- *Areas of Interest:* Cyber Security, Web Development
 - *Professional Skills:* Problem Solving, Teamwork, Leadership
 
 ## 🚀 Projects
